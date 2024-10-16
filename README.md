@@ -50,7 +50,7 @@
 
 ###
 
-<h2 align="left">My Created Games</h2>
+<h2 align="left">My games released on STEAM</h2>
 
 ###
 
