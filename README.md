@@ -55,7 +55,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/wgYaSTf.png"  />
+  <img height="200" src="https://imgur.com/XNcNI13.png"  />
 </div>
 
 ###
