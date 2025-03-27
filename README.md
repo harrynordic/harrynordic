@@ -10,9 +10,10 @@
 
 ###
 
-<p align="left">👨‍🎓 Software Engineer II<br>🎮 Game Developer<br>🏆 Game Designer<br>🎨 Pixel Artist<br>🎥 Youtuber</p>
+<p align="left">👨‍🎓 Mid-Level Software Developer II<br>🎮 Game Developer<br>🏆 Game Designer<br>🎨 Pixel Artist<br>🎥 Youtuber</p>
 
 ###
+
 
 <h2 align="left">Skills</h2>
 
